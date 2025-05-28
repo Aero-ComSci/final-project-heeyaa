@@ -11,19 +11,19 @@
 
 ## 𝓢𝓬𝓻𝓮𝓮𝓷𝓼𝓱𝓸𝓽 𝓸𝓯 𝓽𝓱𝓮 𝓬𝓸𝓭𝓮:
 
-  -Code of using a list: 
+### Code of using a list: 
 
   ![image](https://github.com/user-attachments/assets/c8e5fe9a-c3fb-4839-a6c3-1c3998eed954)
 
-  -Code of using a loop: 
+### Code of using a loop: 
 
   ![image](https://github.com/user-attachments/assets/5853dfb6-c852-4955-ac43-70c60ec96878)
 
-  -Code of using a function:
+### Code of using a function:
 
   ![image](https://github.com/user-attachments/assets/592ad697-03f9-424b-9031-b522330f683d)
 
-  -Program running:
+### Program running:
 
   ![image](https://github.com/user-attachments/assets/0fd2a401-88a9-43a8-b2f4-b063ff1ee415)
 
