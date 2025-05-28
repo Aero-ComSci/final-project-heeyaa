@@ -23,6 +23,10 @@
 
   ![image](https://github.com/user-attachments/assets/592ad697-03f9-424b-9031-b522330f683d)
 
+  -Program running:
+
+  ![image](https://github.com/user-attachments/assets/0fd2a401-88a9-43a8-b2f4-b063ff1ee415)
+
 
 
 
